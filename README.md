@@ -9,19 +9,19 @@ The app supports adding, editing, deleting, searching, and bulk actions on conta
 
 ### Main Contact List
 
-![Contact List](Screenshot%202025-12-06%20181847.png)
+![Contact List](Screenshot%202025-12-06%20182027.png)
 
 ### Add/Edit Contact Modal
 
-![Contact Form](Screenshot%202025-12-06%20181910.png)
+![Contact Form](Screenshot%202025-12-06%20182009.png)
 
 ### Search Functionality
 
-![Search](Screenshot%202025-12-06%20182009.png)
+![Search](Screenshot%202025-12-06%20181910.png)
 
 ### Bulk Actions
 
-![Bulk Actions](Screenshot%202025-12-06%20182027.png)
+![Bulk Actions](Screenshot%202025-12-06%20182837.png)
 
 ### Delete Confirmation
 
@@ -29,7 +29,7 @@ The app supports adding, editing, deleting, searching, and bulk actions on conta
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** + **TypeScript**
 - **Vite**
@@ -39,7 +39,7 @@ The app supports adding, editing, deleting, searching, and bulk actions on conta
 
 ---
 
-## 🚀 Installation & Running Locally
+## Installation & Running Locally
 
 ```bash
 # Clone repository
@@ -115,13 +115,13 @@ src/
 
 ---
 
-## 📄 License
+## License
 
 This project is part of a frontend assignment for OFB.
 
 ---
 
-## 👤 Author
+## Author
 
 **Mridul Shukla**  
 GitHub: [@mrisham](https://github.com/mrisham)
